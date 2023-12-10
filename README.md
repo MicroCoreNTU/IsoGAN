@@ -1,6 +1,6 @@
 ### Repository of our paper "Isotropic Multi-Scale Neuronal Reconstruction from High-Ratio Expansion Microscopy with Contrastive Unsupervised Deep Generative Models", currently under review
 
-Documentations and testting data are under construction.
+Documentations and testing data are under construction.
 
 ### USAGE
 Training of IsoGAN:
